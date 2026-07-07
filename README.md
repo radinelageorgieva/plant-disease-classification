@@ -2,7 +2,6 @@
 A PyTorch-based computer vision project utilizing EfficientNet-B0 transfer learning to classify plant diseases, featuring imbalance handling and explainable AI using Grad-CAM.
 
 
-An automated computer vision system to classify plant leaf diseases across multiple categories using the EfficientNet-B0 architecture, PyTorch, and Explainable AI (XAI) techniques.
 
 ## Project architecture
 

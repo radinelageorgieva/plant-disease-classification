@@ -78,9 +78,9 @@ Since a 91% accuracy shows that the model looks at the leaf surface but still st
 
 * **Plant Diseases Dataset**: Saroz, O. Plant Diseases Dataset on Kaggle. Dataset repository: [saroz014/plant-diseases](https://kaggle.com).
 * **EfficientNet Architecture**: Tan, M., & Le, Q. (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. *International Conference on Machine Learning (ICML)*, arXiv:1905.11946. Document: [arxiv.org/pdf/1905.11946](https://arxiv.org).
-* **MLflow Platform**: MLflow AI Platform Team. (2018). Accelerating the Machine Learning Lifecycle with MLflow. Python API Reference Documentation: [mlflow.org/docs](https://mlflow.org).
-* **PyTorch Library**: PyTorch Development Team. Training a CNN Classifier (Deep Learning with PyTorch: A 60 Minute Blitz). Documentation: [pytorch.org/tutorials](https://pytorch.org).
-* **Vision Inspection CNN**: Towards Data Science. Building a Vision Inspection CNN for an Industrial Application. Practical guide: [towardsdatascience.com](https://towardsdatascience.com).
+* **MLflow Platform**: MLflow AI Platform Team. (2018). Accelerating the Machine Learning Lifecycle with MLflow. Python API Reference Documentation: [[mlflow.org/docs](https://mlflow.org).](https://mlflow.org/docs/latest/ml/projects/)
+* **PyTorch Library**: PyTorch Development Team. Training a CNN Classifier (Deep Learning with PyTorch: A 60 Minute Blitz). Documentation: [[pytorch.org/tutorials](https://pytorch.org).](https://docs.pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+* **Vision Inspection CNN**: Towards Data Science. Building a Vision Inspection CNN for an Industrial Application. Practical guide:[ [towardsdatascience.com].](https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/)
 * * **Grad-CAM in PyTorch**: Simonelli, J. (2023). Model Explainability with Grad-CAM in PyTorch. *Julius' Data Science Blog*. Technical tutorial: [jss367.github.io](https://jss367.github.io/model-explainability-with-grad-cam-in-pytorch.html).
 * * Vision Inspection CNN: Nowitzky, I. 2024. Building a Vision Inspection CNN for an Industrial Application. Towards Data Science. Practical guide: https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/
 * * EfficientNet Transfer Learning: Rath, S. R. 2022. Transfer Learning using EfficientNet PyTorch. DebuggerCafe. Technical tutorial: https://debuggercafe.com/transfer-learning-using-efficientnet-pytorch/
